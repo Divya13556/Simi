@@ -4,8 +4,6 @@ margin:0;
 padding:20px;
 }
 
-/* ===== CHAT BUTTON WRAPPER ===== */
-
 #chatbot-wrapper {
     position: fixed;
     bottom: 20px;
@@ -14,8 +12,6 @@ padding:20px;
     align-items: center;
     gap: 8px;
 }
-
-/* LABEL */
 
 #chatbot-label {
     background: white;
@@ -28,8 +24,6 @@ padding:20px;
     animation: fadeInUp 0.6s ease;
 }
 
-/* CHAT ICON */
-
 #chatbot-button {
     background: #f4c430;
     font-size: 20px;
@@ -38,8 +32,6 @@ padding:20px;
     cursor: pointer;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
-
-/* ===== CHATBOX ===== */
 
 #chatbot-container{
 position:fixed;
@@ -106,7 +98,6 @@ cursor:pointer;
 font-weight:bold;
 }
 
-/* QUICK BUTTONS */
 
 #quick-options{
 display:flex;
@@ -128,7 +119,6 @@ font-size:12px;
 background:#e0b020;
 }
 
-/* ===== AGENT POPUP ===== */
 
 #simi-agent {
     position: fixed;
@@ -161,8 +151,6 @@ background:#e0b020;
     border-style: solid;
     border-color: transparent transparent transparent white;
 }
-
-/* ANIMATION */
 
 @keyframes fadeInUp {
     from {
