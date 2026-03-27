@@ -1,0 +1,115 @@
+{
+  "responses": [
+    {
+      "keywords": ["hello", "hi", "hey", "helo", "hii"],
+      "reply": "Hello! I'm Simi 👋 Your SkillGlider assistant. How can I help you today?"
+    },
+    {
+      "keywords": ["how are you", "how r u", "how are u", "how r you", "hru"],
+      "reply": "I'm doing well, thank you 😊 I'm here to assist you with SkillGlider courses, career guidance, and learning resources."
+    },
+    {
+      "keywords": ["who are you", "about you", "what are you"],
+      "reply": "I am Simi 🤖, the virtual assistant for SkillGlider. I help students with platform support, career guidance, and learning resources."
+    },
+    {
+      "keywords": ["what can you do", "how can you help", "help me"],
+      "reply": "I can help you with course information, career guidance, learning resources, internships, and student support."
+    },
+
+    {
+      "keywords": ["course", "courses", "cource", "training", "course details", "available courses", "list of courses"],
+      "reply": "SkillGlider offers courses in Web Development, Artificial Intelligence, and Programming.<br><br>👉 <a href='https://www.skillglider.in/courses/courses.html' target='_blank'>View Available Courses</a>"
+    },
+
+    {
+      "keywords": ["career", "careers", "career guidance", "job", "future", "career path", "job options"],
+      "reply": "SkillGlider provides career guidance to help students become Web Developers, AI Engineers, and Software Developers.<br><br>👉 <a href='https://www.skillglider.in/index.html#pricing' target='_blank'>Explore Career Paths</a>"
+    },
+
+    {
+      "keywords": ["free", "trial", "free course", "free courses", "no cost"],
+      "reply": "SkillGlider provides free career guidance and 1 day trial learning options.<br><br>👉 <a href='https://www.skillglider.in/#courses' target='_blank'>Explore Free Courses</a>"
+    },
+
+    {
+      "keywords": ["full course", "full courses", "paid courses", "complete course"],
+      "reply": "Explore full courses with complete training and certification.<br><br>👉 <a href='https://www.skillglider.in/courses/courses.html' target='_blank'>View Full Courses</a>"
+    },
+
+    {
+      "keywords": ["gold", "gold package", "gold plan", "gold membership"],
+      "reply": "Here is the Gold Package link:<br><br>👉 <a href='https://www.skillglider.in/packages/gp.html' target='_blank'>Open Gold Package</a>"
+    },
+
+    {
+      "keywords": ["premium", "premium package", "premium plan"],
+      "reply": "Here is the Premium Package link:<br><br>👉 <a href='https://www.skillglider.in/packages/pp.html' target='_blank'>Open Premium Package</a>"
+    },
+
+    {
+      "keywords": ["premium pro", "pro plan", "pro membership"],
+      "reply": "Here is the Premium Pro Package link:<br><br>👉 <a href='https://www.skillglider.in/packages/ppp.html' target='_blank'>Open Premium Pro</a>"
+    },
+
+    {
+      "keywords": ["internship", "intern", "internships", "training internship"],
+      "reply": "Check Internship opportunities here:<br><br>👉 <a href='https://www.skillglider.in/Auth/login.html' target='_blank'>View Internships</a>"
+    },
+
+    {
+      "keywords": ["hackathon", "hackathons", "competition", "event"],
+      "reply": "Explore Hackathons and coding events:<br><br>👉 <a href='https://www.skillglider.in/Auth/login.html' target='_blank'>View Hackathons</a>"
+    },
+
+    {
+      "keywords": ["certificate", "certification", "certificates", "my certificate"],
+      "reply": "You can view your certificates here:<br><br>👉 <a href='https://skillglider.in' target='_blank'>View Certificates</a>"
+    },
+
+    {
+      "keywords": ["resource", "resources", "study", "materials", "tutorial", "notes"],
+      "reply": "You can explore tutorials, notes, and coding practice materials on the SkillGlider platform.<br><br>👉 <a href='https://www.skillglider.in/index.html#student-community' target='_blank'>View Learning Resources</a>"
+    },
+
+    {
+      "keywords": ["support", "help", "assist", "student support", "contact support"],
+      "reply": "SkillGlider provides 24/7 student support.<br><br>📧 Email: skillglider4@gmail.com<br>📞 Helpline: +91-7993416574<br><br>👉 <a href='https://skillglider.in' target='_blank'>Contact Support</a>"
+    },
+
+    {
+      "keywords": ["login", "account", "password", "login problem"],
+      "reply": "If you are facing login issues, please reset your password or contact support.<br><br>👉 <a href='https://skillglider.in' target='_blank'>Get Help</a>"
+    },
+
+    {
+      "keywords": ["instagram", "insta", "ig"],
+      "reply": "Follow us on Instagram:<br><br>👉 <a href='ig link' target='_blank'>Instagram</a>"
+    },
+
+    {
+      "keywords": ["whatsapp", "chat", "whatsapp number"],
+      "reply": "Chat with us on WhatsApp:<br><br>👉 <a href='https://api.whatsapp.com/send/?phone=917993416574&text&type=phone_number&app_absent=0' target='_blank'>WhatsApp</a>"
+    },
+
+    {
+      "keywords": ["linkedin", "linkedin profile"],
+      "reply": "Connect with us on LinkedIn:<br><br>👉 <a href='https://www.linkedin.com/in/rajavarma0' target='_blank'>LinkedIn</a>"
+    },
+
+    {
+      "keywords": ["thank you", "thanks"],
+      "reply": "You're welcome 😊 Let me know if you need help with courses or career guidance."
+    },
+
+    {
+      "keywords": ["ok", "okay", "alright", "fine"],
+      "reply": "Alright 👍 Let me know how I can assist you further."
+    },
+
+    {
+      "keywords": ["bye", "goodbye"],
+      "reply": "Goodbye 👋 Feel free to return anytime."
+    }
+  ]
+}
