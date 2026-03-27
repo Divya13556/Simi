@@ -1,32 +1,33 @@
-# 🤖 Simi Chatbot – Flask-Based Smart Assistant
+#  Simi Chatbot – Flask-Based Smart Assistant
 
-A clean and interactive chatbot built using **Flask**, designed to assist users with **courses, career guidance, internships, and support resources** on the SkillGlider platform.
+Simi is a lightweight and interactive chatbot built using **Flask**, designed to help users explore courses, career paths, internships, and learning resources on the SkillGlider platform.
 
-Simi provides a smooth conversational experience with quick access buttons, a floating assistant, and instant keyword-based responses — all wrapped in a modern UI.
-
----
-
-## 🚀 Features
-
-- 💬 Interactive chatbot with real-time responses  
-- 🤖 Floating assistant with welcome prompt  
-- 🎯 Quick action buttons for common queries  
-- ⚡ Fast keyword-based response system  
-- 🎨 Clean, responsive, and user-friendly UI  
-- 🔗 Direct navigation links for courses and resources  
-- 🧩 Flask-powered backend (no live server required)
+The goal of this project is to provide a smooth and user-friendly assistant experience with quick access options and instant responses — all within a clean and modern interface.
 
 ---
 
-## 🛠️ Tech Stack
+##  Features
 
-| Layer      | Technology |
-|------------|-----------|
-| Frontend   | HTML, CSS, JavaScript |
-| Backend    | Flask (Python) |
-| Data       | JSON |
+-  Interactive chatbot interface  
+-  Floating assistant with welcome message  
+-  Quick action buttons for faster navigation  
+-  Instant keyword-based responses  
+-  Clean and responsive UI  
+-  Direct links to courses, resources, and support  
+-  Flask backend integration (no live server required)
 
 ---
+
+##  Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Flask (Python)  
+- **Data:** JSON-based response system  
+
+---
+
+##  Project Structure
+
 project/
 │
 ├── app.py # Flask backend
@@ -44,19 +45,15 @@ project/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
+### 1. Clone the repository
 git clone https://github.com/your-username/simi-chatbot.git
 cd simi-chatbot
-2️⃣ Install dependencies
+
+### 2. Install dependencies
 pip install flask
-3️⃣ Run the application
+
+### 3. Run the application
 python app.py
-4️⃣ Open in browser
+
+### 4. Open in browser
 http://127.0.0.1:5000
-
-
-
-
-
-## 📁 Project Structure
