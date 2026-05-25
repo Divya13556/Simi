@@ -46,7 +46,7 @@ project/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/simi-chatbot.git
+git clone https://github.com/Divya13556/simi-chatbot.git
 cd simi-chatbot
 
 ### 2. Install dependencies
